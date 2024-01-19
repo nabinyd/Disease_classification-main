@@ -3,7 +3,7 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/Kishor978/c-plus/raw/master/chicken_data.zip
+  source_URL: https://github.com/nabinyd/plant-disease/raw/main/disease_data.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 
